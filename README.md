@@ -19,7 +19,7 @@ As part of the first year of the DUT STID (Statistics and Business Intelligence)
 Carried out by group #3.
 
 ### Content
-The goal of the game is to guess **[the correlation between two variables using a scatterplot](https://fr.wikipedia.org/wiki/Corrélation_(statistics))**.
+The goal of the game is to guess **[the correlation between two variables using a scatter plot](https://en.wikipedia.org/wiki/Correlation_and_dependence)**.
 **The closer** your guess is to the true correlation value, **the more points you gain**.
 The game offers **a ranking system** that allows you to enter your nickname at the end of the game *(requires a database)*.
 
